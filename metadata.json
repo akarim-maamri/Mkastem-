@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Image Suite",
+  "description": "An AI-powered application featuring a Virtual Food Photographer that generates high-end food imagery from menus, and an Image Editor that modifies photos based on text prompts.",
+  "requestFramePermissions": []
+}
